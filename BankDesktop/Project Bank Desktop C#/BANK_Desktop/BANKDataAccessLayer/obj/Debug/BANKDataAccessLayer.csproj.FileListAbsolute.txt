@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANKDataAccessLayer\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANKDataAccessLayer\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\obj\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANKDataAccessLayer\bin\Debug\BANKDataAccessLayer.dll.config

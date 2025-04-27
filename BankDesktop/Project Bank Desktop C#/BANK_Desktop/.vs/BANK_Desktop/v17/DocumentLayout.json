@@ -1,0 +1,1107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|c:\\users\\user\\desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\project to cv\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\project bank desktop c#\\bank_desktop\\bank_desktop\\global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BANK_Desktop||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\login\\frmsettingsnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\login\\frmsettingsnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\login\\frmcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\login\\frmcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmpermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmpermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\frmclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\frmclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\frmchangepasswordclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\frmchangepasswordclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\frmaddupdatecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\withdrawdeposit\\frmwithdrawsdepositslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\withdrawdeposit\\frmwithdrawsdepositslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\withdrawdeposit\\frmwithdrawdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\withdrawdeposit\\frmwithdrawdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\withdrawdeposit\\frmwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\withdrawdeposit\\frmwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\withdrawdeposit\\frmdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\withdrawdeposit\\frmdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\transfer\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\transfer\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\transfer\\frmtranferslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\transfer\\frmtranferslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\currencyexchange\\frmcurrencyexchangelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\currencyexchange\\frmcurrencyexchangelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\currencyexchange\\frmcurrencycalucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\currencyexchange\\frmcurrencycalucator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\currencyexchange\\frmaddupdatecurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\currencyexchange\\frmaddupdatecurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bankdataaccesslayer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bankdataaccesslayer\\clsprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\clsprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\login\\frmsettingsnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\login\\frmsettingsnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\login\\frmsettingsnetwork.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\login\\frmsettingsnetwork.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bankdataaccesslayer\\properties\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\properties\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\login\\frmcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\login\\frmcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\transfer\\frmtranferslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\transfer\\frmtranferslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\withdrawdeposit\\frmwithdrawsdepositslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\withdrawdeposit\\frmwithdrawsdepositslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\frmlistclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmaddupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmlistusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\users\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\users\\controls\\ctrlusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303494E9-C701-4603-A1DB-A95384E50175}|BANK_BuisnessLayer\\BANK_BuisnessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_buisnesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303494E9-C701-4603-A1DB-A95384E50175}|BANK_BuisnessLayer\\BANK_BuisnessLayer.csproj|solutionrelative:bank_buisnesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bankdataaccesslayer\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\controls\\ctrlclientcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\controls\\ctrlclientcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\frmclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\frmclientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\controls\\ctrlclientcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\controls\\ctrlclientcardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\controls\\ctrlclientcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\controls\\ctrlclientcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\clients\\controls\\ctrlclientcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\clients\\controls\\ctrlclientcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303494E9-C701-4603-A1DB-A95384E50175}|BANK_BuisnessLayer\\BANK_BuisnessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_buisnesslayer\\clsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303494E9-C701-4603-A1DB-A95384E50175}|BANK_BuisnessLayer\\BANK_BuisnessLayer.csproj|solutionrelative:bank_buisnesslayer\\clsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bankdataaccesslayer\\clsclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\clsclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\global classes\\clsvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\global classes\\clsvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303494E9-C701-4603-A1DB-A95384E50175}|BANK_BuisnessLayer\\BANK_BuisnessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_buisnesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303494E9-C701-4603-A1DB-A95384E50175}|BANK_BuisnessLayer\\BANK_BuisnessLayer.csproj|solutionrelative:bank_buisnesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bankdataaccesslayer\\clscountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\clscountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bankdataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD394725-90A4-443D-A571-212EA1749827}|BANKDataAccessLayer\\BANKDataAccessLayer.csproj|solutionrelative:bankdataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\transfer\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\transfer\\frmtransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\bank_desktop\\applications\\withdrawdeposit\\frmdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC2EC7E-1FB1-4BDD-A78F-376FF6B0BD7C}|BANK_Desktop\\BANK_Desktop.csproj|solutionrelative:bank_desktop\\applications\\withdrawdeposit\\frmdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Global Classes\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Global Classes\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Global Classes\\clsGlobal.cs",
+              "RelativeToolTip": "BANK_Desktop\\Global Classes\\clsGlobal.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:12:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BANK_Desktop",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\BANK_Desktop.csproj",
+              "RelativeDocumentMoniker": "BANK_Desktop\\BANK_Desktop.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\BANK_Desktop.csproj",
+              "RelativeToolTip": "BANK_Desktop\\BANK_Desktop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T00:38:00.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmUserInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmUserInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmUserInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:56:02.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "BANK_Desktop\\Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:12:11.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSettingsNetwork.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmSettingsNetwork.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Login\\frmSettingsNetwork.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmSettingsNetwork.cs [Design]",
+              "RelativeToolTip": "BANK_Desktop\\Login\\frmSettingsNetwork.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:15:30.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCode.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmCode.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Login\\frmCode.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmCode.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmCode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:27:36.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Login\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmLogin.cs",
+              "RelativeToolTip": "BANK_Desktop\\Login\\frmLogin.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:12:14.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmPermissions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmPermissions.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmPermissions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmPermissions.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmPermissions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:59:10.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmListUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmListUsers.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmListUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:55:48.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmListClients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmListClients.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\frmListClients.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmListClients.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmListClients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:49:29.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:55:40.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAddUpdateUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmAddUpdateUser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmAddUpdateUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmAddUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:39:15.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmShowPersonInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\frmShowPersonInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmShowPersonInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmShowPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:14:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmListPeople.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\frmListPeople.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmListPeople.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmListPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:48:19.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmFindPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\frmFindPerson.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmFindPerson.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmFindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:39:33.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAddUpdatePerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\frmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmAddUpdatePerson.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmAddUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:39:34.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmClientInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmClientInfo.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\frmClientInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmClientInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmClientInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:27:21.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmChangePasswordClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmChangePasswordClient.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\frmChangePasswordClient.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmChangePasswordClient.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmChangePasswordClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:49:15.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAddUpdateCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmAddUpdateCustomer.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\frmAddUpdateCustomer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmAddUpdateCustomer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmAddUpdateCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:49:45.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmWithdrawsDepositsList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawsDepositsList.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawsDepositsList.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawsDepositsList.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawsDepositsList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:49:42.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmSettingsNetwork.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmSettingsNetwork.Designer.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Login\\frmSettingsNetwork.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmSettingsNetwork.Designer.cs",
+              "RelativeToolTip": "BANK_Desktop\\Login\\frmSettingsNetwork.Designer.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwKUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:42:38.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmWithdrawDeposit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawDeposit.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawDeposit.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawDeposit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawDeposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:49:40.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmWithdraw.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdraw.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdraw.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdraw.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:49:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmDeposit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmDeposit.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\WithdrawDeposit\\frmDeposit.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmDeposit.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmDeposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:49:37.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmCurrencyCalucator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmCurrencyCalucator.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\CurrencyExchange\\frmCurrencyCalucator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmCurrencyCalucator.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmCurrencyCalucator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:49:28.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmCurrencyExchangeList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmCurrencyExchangeList.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\CurrencyExchange\\frmCurrencyExchangeList.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmCurrencyExchangeList.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmCurrencyExchangeList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:50:41.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "BANKDataAccessLayer\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "BANKDataAccessLayer\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:21:36.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmTranfersList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTranfersList.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\Transfer\\frmTranfersList.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTranfersList.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTranfersList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:23:01.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmTransfer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTransfer.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\Transfer\\frmTransfer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTransfer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTransfer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:50:47.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmTranfersList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTranfersList.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\Transfer\\frmTranfersList.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTranfersList.cs",
+              "RelativeToolTip": "BANK_Desktop\\Applications\\Transfer\\frmTranfersList.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T20:19:01.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsProps.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsProps.cs",
+              "RelativeDocumentMoniker": "BANKDataAccessLayer\\clsProps.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsProps.cs",
+              "RelativeToolTip": "BANKDataAccessLayer\\clsProps.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:00:18.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmAddUpdateCurrency.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmAddUpdateCurrency.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\CurrencyExchange\\frmAddUpdateCurrency.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmAddUpdateCurrency.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\CurrencyExchange\\frmAddUpdateCurrency.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:50:29.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmSettingsNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmSettingsNetwork.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Login\\frmSettingsNetwork.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmSettingsNetwork.cs",
+              "RelativeToolTip": "BANK_Desktop\\Login\\frmSettingsNetwork.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:16:11.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmCode.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmCode.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Login\\frmCode.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Login\\frmCode.cs",
+              "RelativeToolTip": "BANK_Desktop\\Login\\frmCode.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:29:00.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Settings1.settings",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\Properties\\Settings1.settings",
+              "RelativeDocumentMoniker": "BANKDataAccessLayer\\Properties\\Settings1.settings",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\Properties\\Settings1.settings",
+              "RelativeToolTip": "BANKDataAccessLayer\\Properties\\Settings1.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-04-24T21:32:02.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmWithdrawsDepositsList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawsDepositsList.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawsDepositsList.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawsDepositsList.cs",
+              "RelativeToolTip": "BANK_Desktop\\Applications\\WithdrawDeposit\\frmWithdrawsDepositsList.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:18:47.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmListClients.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmListClients.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\frmListClients.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmListClients.cs",
+              "RelativeToolTip": "BANK_Desktop\\Clients\\frmListClients.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:04:42.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\frmMain.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\frmMain.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\frmMain.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\frmMain.cs*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:30:44.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\frmMain.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\frmMain.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\frmMain.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\frmMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:38:58.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Program.cs",
+              "RelativeToolTip": "BANK_Desktop\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:16:28.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmAddUpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmAddUpdateUser.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmAddUpdateUser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmAddUpdateUser.cs",
+              "RelativeToolTip": "BANK_Desktop\\Users\\frmAddUpdateUser.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAwwHcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:20:29.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmListUsers.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmListUsers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmListUsers.cs",
+              "RelativeToolTip": "BANK_Desktop\\Users\\frmListUsers.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwD4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:31:06.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmUserInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmUserInfo.cs",
+              "RelativeToolTip": "BANK_Desktop\\Users\\frmUserInfo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:27:03.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\frmChangePassword.cs",
+              "RelativeToolTip": "BANK_Desktop\\Users\\frmChangePassword.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwIkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T19:11:22.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ctrlUserCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\Controls\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\Controls\\ctrlUserCard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\Controls\\ctrlUserCard.cs",
+              "RelativeToolTip": "BANK_Desktop\\Users\\Controls\\ctrlUserCard.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:29:45.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ctrlUserCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\Controls\\ctrlUserCard.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Users\\Controls\\ctrlUserCard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\Controls\\ctrlUserCard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Users\\Controls\\ctrlUserCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:30:47.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:24:31.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ctrlPersonCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeToolTip": "BANK_Desktop\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:08:28.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:20:45.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsUserData.cs",
+              "RelativeDocumentMoniker": "BANKDataAccessLayer\\clsUserData.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsUserData.cs",
+              "RelativeToolTip": "BANKDataAccessLayer\\clsUserData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:36:39.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_BuisnessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "BANK_BuisnessLayer\\clsUser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_BuisnessLayer\\clsUser.cs",
+              "RelativeToolTip": "BANK_BuisnessLayer\\clsUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:49:32.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "clsClient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_BuisnessLayer\\clsClient.cs",
+              "RelativeDocumentMoniker": "BANK_BuisnessLayer\\clsClient.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_BuisnessLayer\\clsClient.cs",
+              "RelativeToolTip": "BANK_BuisnessLayer\\clsClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:56:00.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ctrlClientCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCard.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\Controls\\ctrlClientCard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCard.cs",
+              "RelativeToolTip": "BANK_Desktop\\Clients\\Controls\\ctrlClientCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:49:49.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ctrlClientCardWithFilter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCardWithFilter.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\Controls\\ctrlClientCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCardWithFilter.cs",
+              "RelativeToolTip": "BANK_Desktop\\Clients\\Controls\\ctrlClientCardWithFilter.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwF8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:09:05.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeToolTip": "BANK_Desktop\\People\\Controls\\ctrlPersonCard.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:23:01.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmClientInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmClientInfo.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\frmClientInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\frmClientInfo.cs",
+              "RelativeToolTip": "BANK_Desktop\\Clients\\frmClientInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:32:41.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ctrlClientCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCardWithFilter.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\Controls\\ctrlClientCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCardWithFilter.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:34:45.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ctrlClientCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCard.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Clients\\Controls\\ctrlClientCard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Project To CV\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Clients\\Controls\\ctrlClientCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:34:43.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmListPeople.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\frmListPeople.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmListPeople.cs",
+              "RelativeToolTip": "BANK_Desktop\\People\\frmListPeople.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAYwMsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T21:48:32.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmAddUpdatePerson.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\frmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmAddUpdatePerson.cs",
+              "RelativeToolTip": "BANK_Desktop\\People\\frmAddUpdatePerson.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwDIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:18:06.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "clsClientData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsClientData.cs",
+              "RelativeDocumentMoniker": "BANKDataAccessLayer\\clsClientData.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsClientData.cs",
+              "RelativeToolTip": "BANKDataAccessLayer\\clsClientData.cs",
+              "ViewState": "AQIAAFgBAAAAAAAAAAAAAHgBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:37:18.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmFindPerson.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\frmFindPerson.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmFindPerson.cs",
+              "RelativeToolTip": "BANK_Desktop\\People\\frmFindPerson.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:13:23.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmShowPersonInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\People\\frmShowPersonInfo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\People\\frmShowPersonInfo.cs",
+              "RelativeToolTip": "BANK_Desktop\\People\\frmShowPersonInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:15:54.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "clsValidations.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Global Classes\\clsValidations.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Global Classes\\clsValidations.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Global Classes\\clsValidations.cs",
+              "RelativeToolTip": "BANK_Desktop\\Global Classes\\clsValidations.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:04:15.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Global Classes\\clsUtil.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Global Classes\\clsUtil.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Global Classes\\clsUtil.cs",
+              "RelativeToolTip": "BANK_Desktop\\Global Classes\\clsUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:03:31.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "clsCountryData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsCountryData.cs",
+              "RelativeDocumentMoniker": "BANKDataAccessLayer\\clsCountryData.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsCountryData.cs",
+              "RelativeToolTip": "BANKDataAccessLayer\\clsCountryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:28:58.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_BuisnessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "BANK_BuisnessLayer\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_BuisnessLayer\\clsPerson.cs",
+              "RelativeToolTip": "BANK_BuisnessLayer\\clsPerson.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:22:04.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "BANKDataAccessLayer\\clsPersonData.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANKDataAccessLayer\\clsPersonData.cs",
+              "RelativeToolTip": "BANKDataAccessLayer\\clsPersonData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:36:55.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "frmTransfer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTransfer.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\Transfer\\frmTransfer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\Transfer\\frmTransfer.cs",
+              "RelativeToolTip": "BANK_Desktop\\Applications\\Transfer\\frmTransfer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAASwGMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:50:57.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "frmDeposit.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmDeposit.cs",
+              "RelativeDocumentMoniker": "BANK_Desktop\\Applications\\WithdrawDeposit\\frmDeposit.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u062A\u0646\u0638\u064A\u0645 2025\\Project To CV\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0628\u0646\u0643\\Project Bank Desktop C#\\BANK_Desktop\\BANK_Desktop\\Applications\\WithdrawDeposit\\frmDeposit.cs",
+              "RelativeToolTip": "BANK_Desktop\\Applications\\WithdrawDeposit\\frmDeposit.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:49:41.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.exe.config
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.exe
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.pdb
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Properties.Resources.resources
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.exe
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.pdb
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.frmMain.resources
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Des.5F70BB62.Up2Date
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.Controls.ctrlClientCard.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmAddUpdateCustomer.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmChangePasswordClient.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmClientInfo.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmListClients.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.frmMain.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.Controls.ctrlPersonCard.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmAddUpdatePerson.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmFindPerson.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmListPeople.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmShowPersonInfo.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Properties.Resources.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.Controls.ctrlUserCard.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmAddUpdateUser.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmChangePassword.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmListUsers.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmUserInfo.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.exe.config
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.exe
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Des.5F70BB62.Up2Date
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.exe
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmWithdrawDeopsit.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmDeposit.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmWithdraw.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmInputPasswordClient.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.frmWithdrawsDepositsList.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.Controls.ctrlClientCardWithFilter.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.Transfer.frmTransfer.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.Transfer.frmTranfersList.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Login.frmLogin.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmCurrencyExchangeList.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmAddUpdateCurrency.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmCurrencyCalucator.resources
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmPermissions.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.exe.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmAddUpdateCurrency.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmCurrencyCalucator.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmCurrencyExchangeList.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmInputPasswordClient.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.Transfer.frmTranfersList.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.Transfer.frmTransfer.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmDeposit.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmWithdraw.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmWithdrawDeopsit.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.Controls.ctrlClientCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.Controls.ctrlClientCardWithFilter.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmAddUpdateCustomer.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmChangePasswordClient.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmClientInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmListClients.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.frmMain.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.frmWithdrawsDepositsList.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Login.frmLogin.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.Controls.ctrlPersonCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmAddUpdatePerson.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmFindPerson.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmListPeople.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmShowPersonInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Properties.Resources.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.Controls.ctrlUserCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmAddUpdateUser.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmChangePassword.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmListUsers.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmPermissions.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmUserInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Des.5F70BB62.Up2Date
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANKDataAccessLayer.dll.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Login.frmCode.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Login.frmSettingsNetwork.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.exe.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_Desktop.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANKDataAccessLayer.dll.config
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\bin\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmAddUpdateCurrency.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmCurrencyCalucator.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.CurrencyExchange.frmCurrencyExchangeList.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmInputPasswordClient.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.Transfer.frmTranfersList.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.Transfer.frmTransfer.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmDeposit.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmWithdraw.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Applications.frmWithdrawDeopsit.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.Controls.ctrlClientCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.Controls.ctrlClientCardWithFilter.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmAddUpdateCustomer.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmChangePasswordClient.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmClientInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Clients.frmListClients.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.frmMain.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.frmWithdrawsDepositsList.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Login.frmCode.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Login.frmLogin.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Login.frmSettingsNetwork.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.Controls.ctrlPersonCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.Controls.ctrlPersonCardWithFilter.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmAddUpdatePerson.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmFindPerson.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmListPeople.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.People.frmShowPersonInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Properties.Resources.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.Controls.ctrlUserCard.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmAddUpdateUser.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmChangePassword.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmListUsers.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmPermissions.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.Users.frmUserInfo.resources
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Des.5F70BB62.Up2Date
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.exe
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\مشروع البنك\مشروع البنك\Project Bank Desktop C#\BANK_Desktop\BANK_Desktop\obj\Debug\BANK_Desktop.pdb

@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_Bui.95E10127.Up2Date
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\3tiertest\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_Bui.95E10127.Up2Date
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANKDataAccessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANKDataAccessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_Bui.95E10127.Up2Date
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.dll
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\obj\Debug\BANK_BuisnessLayer.pdb
+C:\Users\user\Desktop\تنظيم 2025\Project To CV\Project Bank Desktop C#\BANK_Desktop\BANK_BuisnessLayer\bin\Debug\BANKDataAccessLayer.dll.config
